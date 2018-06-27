@@ -34,7 +34,7 @@ To get started, see the manual at http://www.fastandeasyhacking.com
 
 4. Source Code
    -----------
-This projected is hosted on <s>Google Code</s> GitHub at:
+This projected is hosted on GitHub at:
 https://github.com/rsmudge/armitage
 
 5. Disclaimer
